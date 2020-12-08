@@ -1,4 +1,6 @@
 """
+
+The data was huge , i was able to download on my machine but uploading it to s3 did not work on time. so i am submitting the code for small sample of data.
 Author: Nitin Pathania
 Title: Alternating Least Square Implementation in Apache Spark for Product Recommendation
 Sample Call: spark-submit als_2.py AZ_P/input AmazonProductReco.dat 10 4
